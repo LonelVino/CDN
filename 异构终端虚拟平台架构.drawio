@@ -1,1 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T09:57:12.334Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.9" etag="bxxDLSESMAcVEZuXa4U5" type="github"><diagram id="GvJl_rdiUUGHmZm9LiJm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-20T10:12:07.257Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="f6Z3I9rUFy_aVrDK9FMI" version="14.2.9" type="github">
+  <diagram id="GvJl_rdiUUGHmZm9LiJm" name="Page-1">
+    <mxGraphModel dx="849" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_3fKjJv2jNxwpisCeydu-1" value="&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun  BCX7 SCXW165270680&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border: 0px none rgb(0 , 0 , 0) ; border-radius: 0px ; border-collapse: separate ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 14px ; height: auto ; line-height: 23.7417px ; list-style: outside none disc ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow-wrap: break-word ; overflow: visible ; padding: 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: justify ; text-shadow: none ; text-overflow: clip ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1 ; appearance: none ; backface-visibility: visible ; border-spacing: 0px ; perspective: none ; perspective-origin: 0px 0px ; transform: none ; transform-origin: 0px 0px ; transform-style: flat&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX7 SCXW165270680&quot;&gt;&lt;b&gt;Heterogeneous terminal access layer&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="320" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-2" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=6;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="316" as="sourcePoint" />
+            <mxPoint x="409.5" y="278" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409.5" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-3" value="&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun  BCX7 SCXW242761454&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border: 0px none rgb(0 , 0 , 0) ; border-radius: 0px ; border-collapse: separate ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 14px ; height: auto ; line-height: 23.7417px ; list-style: outside none disc ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow-wrap: break-word ; overflow: visible ; padding: 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: justify ; text-shadow: none ; text-overflow: clip ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1 ; appearance: none ; backface-visibility: visible ; border-spacing: 0px ; perspective: none ; perspective-origin: 0px 0px ; transform: none ; transform-origin: 0px 0px ; transform-style: flat&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX7 SCXW242761454&quot;&gt;&lt;b&gt;Virtual terminal information processing layer&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="275" y="180" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-7" value="&lt;span lang=&quot;EN-US&quot; class=&quot;TextRun  BCX7 SCXW212982111&quot; style=&quot;animation: 0s ease 0s 1 normal none running none ; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0 , 0 , 0 , 0) ; border: 0px none rgb(0 , 0 , 0) ; border-radius: 0px ; border-collapse: separate ; box-shadow: none ; box-sizing: content-box ; caption-side: top ; clear: none ; clip: auto ; content: normal ; cursor: text ; direction: ltr ; display: inline ; empty-cells: show ; float: none ; font-family: &amp;#34;wordvisi_msfontservice&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;calibri_embeddedfont&amp;#34; , &amp;#34;calibri_msfontservice&amp;#34; , sans-serif ; font-size: 14px ; height: auto ; line-height: 23.7417px ; list-style: outside none disc ; margin: 0px ; max-height: none ; max-width: none ; min-height: 0px ; min-width: 0px ; opacity: 1 ; outline: rgb(0 , 0 , 0) none 0px ; overflow-wrap: break-word ; overflow: visible ; padding: 0px ; position: static ; resize: none ; speak: normal ; table-layout: auto ; text-align: justify ; text-shadow: none ; text-overflow: clip ; transition: all 0s ease 0s ; unicode-bidi: normal ; vertical-align: baseline ; visibility: visible ; width: auto ; word-break: normal ; z-index: auto ; zoom: 1 ; appearance: none ; backface-visibility: visible ; border-spacing: 0px ; perspective: none ; perspective-origin: 0px 0px ; transform: none ; transform-origin: 0px 0px ; transform-style: flat&quot;&gt;&lt;span class=&quot;NormalTextRun  BCX7 SCXW212982111&quot;&gt;&lt;b&gt;Logical terminal adaption layer&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="275" y="248" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-8" value="" style="shape=flexArrow;endArrow=classic;html=1;width=6;endSize=6;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="248" as="sourcePoint" />
+            <mxPoint x="409.5" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409.5" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-10" value="&lt;span&gt;&lt;b&gt;Non-standard information data&lt;/b&gt;&lt;/span&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="290" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-11" value="&lt;b&gt;Unified terminal identity&lt;/b&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="429" y="228" width="141" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-12" value="&lt;b&gt;Smart terminal extension&lt;/b&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="160" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;fillColor=none;strokeWidth=3;strokeColor=#00331A;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="340" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-18" value="&lt;font size=&quot;1&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Heterogeneous Virtual Terminal Platform&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="130" width="335" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-19" value="&lt;div&gt;&lt;font face=&quot;calibri, calibri_embeddedfont, calibri_msfontservice, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 18.6667px&quot;&gt;&lt;b&gt;Smart &lt;br&gt;Service Platform&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b46504;strokeWidth=3;fillColor=#fad7ac;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="214.5" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;User&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b46504;strokeWidth=3;fillColor=#fad7ac;" vertex="1" parent="1">
+          <mxGeometry x="660" y="214.5" width="120" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-22" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="239" as="sourcePoint" />
+            <mxPoint x="190" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="239" as="sourcePoint" />
+            <mxPoint x="590" y="239" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_3fKjJv2jNxwpisCeydu-24" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1" target="_3fKjJv2jNxwpisCeydu-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.5" y="270" as="sourcePoint" />
+            <mxPoint x="780" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="380" />
+              <mxPoint x="720" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
