@@ -23,7 +23,7 @@ git push                      ##推送至远程仓库
 
 和平常不一样的重点来了 ：点击release发布
 
-![image-20210521075834767](/home/lonelvino/.config/Typora/typora-user-images/image-20210521075834767.png)
+![image-20210521075834767](https://cdn.jsdelivr.net/gh/LonelVino/CDN@1.4.5/git-static/CDN_release.png)
 
 ## 4.通过jsDelivr引用资源
 
