@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T19:12:22.911Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="WHBTpLGzeI8t_6yHRnfj" version="14.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-19T19:19:55.356Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="aJGVNM5DCAFZRifw9tai" version="14.9.6" type="github" pages="4">
   <diagram id="3CnhUhguxaNA2H1j5C3d" name="Page-1">
     <mxGraphModel dx="792" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,7 +255,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VbLDG5oHpHoY6wDFtY7n" name="Page-4">
-    <mxGraphModel dx="556" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="556" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LMZwCih-DwYR88355pdz-0" />
         <mxCell id="LMZwCih-DwYR88355pdz-1" parent="LMZwCih-DwYR88355pdz-0" />
@@ -382,6 +382,9 @@
         </mxCell>
         <mxCell id="g38Fi8EjGfNLFSluh4o1-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;用户流失数&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00994D;" vertex="1" parent="LMZwCih-DwYR88355pdz-1">
           <mxGeometry x="482.50000000000006" y="500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g38Fi8EjGfNLFSluh4o1-29" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;用户转化漏斗&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;" vertex="1" parent="LMZwCih-DwYR88355pdz-1">
+          <mxGeometry x="220" y="224.71" width="30" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
