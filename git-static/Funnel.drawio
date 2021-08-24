@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:39:19.429Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tQwocvMba6CpMoNjyOiu" version="14.9.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-08-24T09:45:08.221Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="1z2iAEEU06VLWc6TGZaV" version="14.9.8" type="github" pages="5">
   <diagram id="3CnhUhguxaNA2H1j5C3d" name="Page-1">
     <mxGraphModel dx="1010" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,7 +390,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GFeCpFwrApgtvo1qsIgZ" name="Page-5">
-    <mxGraphModel dx="1010" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1010" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-0" />
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-1" parent="EA6tWZZ0eFNzwi_PWTws-0" />
@@ -419,7 +419,7 @@
           <mxGeometry x="309.09000000000003" y="404.46000000000004" width="94.03" height="27.65" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-17" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;657&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="519.21" y="329.8" width="40" height="20" as="geometry" />
+          <mxGeometry x="536.7900000000001" y="333.97" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-18" value="" style="shape=link;html=1;strokeColor=#4D4D4D;strokeWidth=5;" edge="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -450,34 +450,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-25" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;435&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="519.21" y="368.8" width="40" height="20" as="geometry" />
+          <mxGeometry x="536.7900000000001" y="372.97" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-27" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;112&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="519.21" y="407.62" width="40" height="20" as="geometry" />
+          <mxGeometry x="536.7900000000001" y="411.79" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;66&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="519.21" y="445.83000000000004" width="40" height="20" as="geometry" />
+          <mxGeometry x="536.7900000000001" y="450.00000000000006" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-34" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;用户转化漏斗&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
           <mxGeometry x="241.10999999999996" y="270" width="230" height="34.71" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-39" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;100.00%&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="578.79" y="329.8" width="40" height="20" as="geometry" />
+          <mxGeometry x="596.37" y="333.97" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-41" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;14.98%&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="578.7900000000001" y="407.62" width="40" height="20" as="geometry" />
+          <mxGeometry x="596.3700000000001" y="411.79" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-42" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;9.55%&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="578.79" y="445.83" width="40" height="20.32" as="geometry" />
+          <mxGeometry x="596.37" y="450" width="40" height="20.32" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-44" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;66.21%&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="578.7900000000001" y="368.8" width="40" height="20" as="geometry" />
+          <mxGeometry x="596.3700000000001" y="372.97" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-46" value="&lt;b&gt;&lt;font color=&quot;#999999&quot; style=&quot;font-size: 15px&quot;&gt;用户数&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="512.4200000000001" y="298.29" width="57.58" height="20" as="geometry" />
+          <mxGeometry x="530.0000000000001" y="302.46000000000004" width="57.58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-47" value="&lt;font color=&quot;#999999&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;转化率&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
-          <mxGeometry x="570" y="298.29" width="57.58" height="20" as="geometry" />
+          <mxGeometry x="587.58" y="302.46000000000004" width="57.58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EA6tWZZ0eFNzwi_PWTws-50" value="&lt;font color=&quot;#999999&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;新客占比&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
           <mxGeometry x="40" y="298.28999999999996" width="70" height="20" as="geometry" />
@@ -536,6 +536,15 @@
             <mxPoint x="210.42000000000007" y="470.31999999999994" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EA6tWZZ0eFNzwi_PWTws-69" value="&lt;font size=&quot;1&quot; color=&quot;#ff9933&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;新客占比 = 新客数量 / 执行该行为的用户数&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
+          <mxGeometry x="20" y="500" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6tWZZ0eFNzwi_PWTws-71" value="&lt;font color=&quot;#ff9933&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;老客占比 = 老客数量 / 执行该行为的用户数&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
+          <mxGeometry x="20" y="530" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EA6tWZZ0eFNzwi_PWTws-72" value="&lt;font color=&quot;#ff9933&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;转化率 = 执行该行为的用户数 / 首页访问用户数&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EA6tWZZ0eFNzwi_PWTws-1">
+          <mxGeometry x="360" y="500" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
