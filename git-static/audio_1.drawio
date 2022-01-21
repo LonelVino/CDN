@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T09:54:48.109Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kqCpikb24ueBpP5ZtNh4" version="16.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T10:15:20.479Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="56HA8LWuA8mEVDftbEd9" version="16.4.2" type="github" pages="3">
   <diagram id="loPkor1TOX7S_Lfh7Cxc" name="mfcc_structure">
-    <mxGraphModel dx="568" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="568" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uMWGMpaLme27WTFVdTY5" name="Spectrum">
-    <mxGraphModel dx="1136" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GnnufyNEVVmVtVgVfhHA-0" />
         <mxCell id="GnnufyNEVVmVtVgVfhHA-1" parent="GnnufyNEVVmVtVgVfhHA-0" />
@@ -45,6 +45,14 @@
             <mxPoint x="224" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CpoKuH_zNi_Qsiy4laGj" name="energy/silence">
+    <mxGraphModel dx="568" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BPu-RArSy1krlq-3Io_e-0" />
+        <mxCell id="BPu-RArSy1krlq-3Io_e-1" parent="BPu-RArSy1krlq-3Io_e-0" />
       </root>
     </mxGraphModel>
   </diagram>
